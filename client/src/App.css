@@ -1,0 +1,54 @@
+.box{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-cart{
+    margin-left: 400px;
+    margin-top: 50px;
+    width: 500px;
+    height: 400px;
+    background-color:rgb(212, 252, 212);
+}
+
+.company{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px !important;
+    font-weight: bold;
+    text-align: center;
+}
+
+.description{
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+
+.website{
+    font-size: medium;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.website:hover{
+    color: blue;
+}
+
+.center-content{
+    font-size: 20px;
+    text-align: center;
+}
+
+.location-icon{
+    margin-top: 30px;  
+}
+
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+
